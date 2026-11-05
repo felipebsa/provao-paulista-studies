@@ -21,13 +21,22 @@ Na prova, física quase sempre é conta de duas ou três etapas dentro de uma hi
 
 ### O roteiro de potência
 
-1. Vejo se é movimento (Ec) ou altura (Ep).
-2. Calculo a energia.
-3. Divido pelo tempo.
+1. Converto tudo pro SI (km/h pra m/s, minutos pra segundos).
+2. Vejo se é movimento (Ec) ou altura (Ep).
+3. Calculo a energia.
+4. Divido pelo tempo.
 
 Carro elétrico de 1 200 kg indo de 0 a 30 m/s em 15 s: Ec = 1 200 × 900 ÷ 2 = 540 000 J, P = 540 000 ÷ 15 = 36 000 W.
 
+Carro de 1 000 kg indo de 0 a 36 km/h em 5 s: 36 km/h = 10 m/s, Ec = 1 000 × 100 ÷ 2 = 50 000 J, P = 50 000 ÷ 5 = 10 000 W = 10 kW. O 36 do enunciado é só o dado de partida.
+
+Água caindo 20 m com 50 kg por segundo: a energia por segundo é 50 × 10 × 20 = 10 000 J, então a potência é 10 000 W = 10 kW.
+
 Usina de 216 MW com 3 comportas e 78 m de queda: cada comporta tem 72 MW. 72 000 000 = m × 10 × 78, então m ≈ 92 300 kg por segundo, que é uns 92 m³/s. O 72 era alternativa errada.
+
+### Bloco pendurado na mola
+
+Parado, a força da mola é igual ao peso. Então são duas etapas: primeiro o peso, P = m · g, depois F = k · x pra achar a deformação. Bloco de 2 kg numa mola com k = 400 N/m: P = 2 × 10 = 20 N, x = 20 ÷ 400 = 0,05 m = 5 cm. O 20 é a força, não a deformação, e aparece como alternativa errada.
 
 ## Movimento
 
@@ -55,5 +64,9 @@ Sem resistência do ar, a massa não muda nada. Pra aumentar o alcance de um lan
 
 - km/h ÷ 3,6 = m/s
 - minutos × 60 = segundos
-- 1 MW = 1 000 000 W, 1 kJ = 1 000 J
+- 1 kW = 1 000 W, 1 MW = 1 000 000 W, 1 kJ = 1 000 J, 1 W = 1 J/s
 - k · x² ÷ 2 é a energia da mola. Pra achar k, uso F = k · x.
+
+Antes de qualquer conta, comparo a unidade que a pergunta pede com a unidade dos dados. Se não batem, converto primeiro. Carro indo de 0 a 72 km/h em 8 s: 72 km/h = 20 m/s, então a = 20 ÷ 8 = 2,5 m/s². Usar o 72 direto dá 9, que é alternativa errada.
+
+Quando tem várias conversões seguidas, faço uma de cada vez. Usina de 2 MW funcionando 30 minutos: 2 MW = 2 000 000 W, 30 min = 1 800 s, energia = 2 000 000 × 1 800 = 3,6 × 10⁹ J. Se a resposta é em kJ, divido por 1 000 e dá 3,6 × 10⁶ kJ.
