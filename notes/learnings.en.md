@@ -13,6 +13,21 @@ Things I got wrong or learned while practicing with past exams and practice test
 
 ## Log
 
+- **Date:** 2026-11-04
+- **Subject:** Physics
+- **What I got wrong / learned:** in a hanging spring question, I stopped at the weight (20 N) and marked it as the stretch.
+- **How to fix it:** at rest, spring force = weight. First P = m · g, then x = F ÷ k. I reread what the question asks before marking.
+
+- **Date:** 2026-11-04
+- **Subject:** Physics
+- **What I got wrong / learned:** in a three-step power question, I marked the speed given in km/h and the calculation never happened.
+- **How to fix it:** convert to m/s, calculate Ek, then divide by the time. If the option is a number that was already in the statement, I get suspicious.
+
+- **Date:** 2026-11-04
+- **Subject:** Physics
+- **What I got wrong / learned:** I used km/h directly in a = Δv ÷ t, and I didn't convert minutes and MW before calculating the energy of a power plant.
+- **How to fix it:** before any calculation, compare the unit the question asks for with the unit of the data. Convert first: km/h ÷ 3.6, minutes × 60, MW × 1,000,000, and J ÷ 1,000 if the answer is in kJ.
+
 - **Date:** 2026-11-03
 - **Subject:** Mathematics
 - **What I got wrong / learned:** I calculated the interest on a purchase using the full price of the product.

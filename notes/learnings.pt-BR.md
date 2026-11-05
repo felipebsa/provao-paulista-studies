@@ -13,6 +13,21 @@ Coisas que eu errei ou aprendi enquanto treinava com provas antigas e simulados.
 
 ## Registro
 
+- **Data:** 04/11/2026
+- **Matéria:** Física
+- **O que eu errei / aprendi:** numa questão de mola com bloco pendurado, parei no peso (20 N) e marquei como se fosse a deformação.
+- **Como corrigir:** parado, força da mola = peso. Primeiro P = m · g, depois x = F ÷ k. Releio o que a pergunta pede antes de marcar.
+
+- **Data:** 04/11/2026
+- **Matéria:** Física
+- **O que eu errei / aprendi:** numa conta de potência de três etapas, marquei a velocidade que veio em km/h no enunciado e a conta nem aconteceu.
+- **Como corrigir:** converto pra m/s, calculo Ec e depois divido pelo tempo. Se a alternativa é um número que já tava no enunciado, desconfio.
+
+- **Data:** 04/11/2026
+- **Matéria:** Física
+- **O que eu errei / aprendi:** usei km/h direto em a = Δv ÷ t, e não converti minutos e MW antes de calcular a energia de uma usina.
+- **Como corrigir:** antes de qualquer conta, comparo a unidade que a pergunta pede com a dos dados. Converto primeiro: km/h ÷ 3,6, minutos × 60, MW × 1 000 000, e J ÷ 1 000 se a resposta é em kJ.
+
 - **Data:** 03/11/2026
 - **Matéria:** Matemática
 - **O que eu errei / aprendi:** calculei os juros de um financiamento em cima do preço total do produto.
