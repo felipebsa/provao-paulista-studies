@@ -30,13 +30,24 @@ Aqui eu escrevo o que já estudei, com as minhas palavras, e registro os erros q
 | 10 | História e geografia | [en](notes/10-history-and-geography/history-and-geography.en.md) | [pt-BR](notes/10-history-and-geography/history-and-geography.pt-BR.md) |
 | | Erros e aprendizados | [en](notes/learnings.en.md) | [pt-BR](notes/learnings.pt-BR.md) |
 
+## Provas antigas no repositório
+
+Provas oficiais da 1ª série, com o gabarito na última página de cada PDF. A lista completa das aplicações e os links dos gabaritos estão em [exams](exams/README.pt-BR.md).
+
+| Ano | Aplicação | Caderno 1: Linguagens + Ciências da Natureza | Caderno 2: Matemática + Ciências Humanas |
+|---|---|---|---|
+| 2025 | principal | [PDF](exams/2025/1st-grade/main-booklet-1-languages-natural-sciences.pdf) | [PDF](exams/2025/1st-grade/main-booklet-2-math-human-sciences.pdf) |
+| 2024 | principal | [PDF](exams/2024/1st-grade/main-booklet-1-languages-natural-sciences.pdf) | [PDF](exams/2024/1st-grade/main-booklet-2-math-human-sciences.pdf) |
+| 2023 | extra | [PDF](exams/2023/1st-grade/extra-booklet-1-languages-natural-sciences.pdf) | [PDF](exams/2023/1st-grade/extra-booklet-2-math-human-sciences.pdf) |
+
 ## Progresso
 
 | O quê | Feito |
 |---|---|
 | Temas do conteúdo estudados | [ver o conteúdo](syllabus/syllabus.pt-BR.md) |
-| Provas antigas feitas inteiras | aplicação principal de 2024, 1ª série (os dois cadernos) |
+| Provas antigas feitas inteiras | aplicação extra de 2023, aplicação principal de 2024 e aplicação principal de 2025, 1ª série |
 | Simulados | 1 (matemática) |
+| Simulado de prova real | aplicação principal de 2025: 79 acertos de 90, [detalhes](practice/real-exam-2025-main.pt-BR.md) |
 
 ## Como eu estudo
 

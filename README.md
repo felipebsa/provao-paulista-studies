@@ -30,13 +30,24 @@ I write down what I have already studied, in my own words, and keep track of the
 | 10 | History and geography | [en](notes/10-history-and-geography/history-and-geography.en.md) | [pt-BR](notes/10-history-and-geography/history-and-geography.pt-BR.md) |
 | | Mistakes and learnings | [en](notes/learnings.en.md) | [pt-BR](notes/learnings.pt-BR.md) |
 
+## Past exams in the repo
+
+Official 1st-year exams, with the answer key on the last page of each PDF. The full list of applications and answer key links is in [exams](exams/README.md).
+
+| Year | Application | Booklet 1: Languages + Natural Sciences | Booklet 2: Mathematics + Human Sciences |
+|---|---|---|---|
+| 2025 | main | [PDF](exams/2025/1st-grade/main-booklet-1-languages-natural-sciences.pdf) | [PDF](exams/2025/1st-grade/main-booklet-2-math-human-sciences.pdf) |
+| 2024 | main | [PDF](exams/2024/1st-grade/main-booklet-1-languages-natural-sciences.pdf) | [PDF](exams/2024/1st-grade/main-booklet-2-math-human-sciences.pdf) |
+| 2023 | extra | [PDF](exams/2023/1st-grade/extra-booklet-1-languages-natural-sciences.pdf) | [PDF](exams/2023/1st-grade/extra-booklet-2-math-human-sciences.pdf) |
+
 ## Progress
 
 | What | Done |
 |---|---|
 | Syllabus topics studied | [see the syllabus](syllabus/syllabus.en.md) |
-| Past exams taken in full | 2024 main application, 1st year (both booklets) |
+| Past exams taken in full | 2023 extra application, 2024 main application and 2025 main application, 1st year |
 | Practice tests | 1 (mathematics) |
+| Real exam simulation | 2025 main application: 79 of 90 right, [details](practice/real-exam-2025-main.en.md) |
 
 ## How I study
 
